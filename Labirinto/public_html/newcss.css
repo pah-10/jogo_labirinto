@@ -1,0 +1,63 @@
+body{
+    padding:0; 
+    margin: 0;
+    border: 0;
+}
+#canvas{
+    
+    position:absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    width : 100vw;
+    height: 100vh;
+}
+#controle{
+    position: absolute;
+    left: 10px;
+    bottom: 10px; 
+    font-size:25px;  
+}
+button{ 
+    background-color:red; 
+    font-size: x-large
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
